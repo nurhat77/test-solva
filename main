@@ -1,0 +1,3 @@
+touch README.md
+touch main.txt
+touch .gitignore
